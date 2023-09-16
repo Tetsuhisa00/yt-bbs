@@ -1,24 +1,7 @@
 # README
+# yt-bbs
+This is a repository for Rails tutorial on YouTube.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+I developed a simple forum based on [this video](https://youtu.be/CfdRXSrwLDo?si=dXtIPO2udg_IYuST).
 
-Things you may want to cover:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
